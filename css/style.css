@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+body {
+    font-family: 'Outfit', sans-serif;
+}
+
+/*Header*/
+.logo {
+    width: 244px;
+}
+
+header {
+    background-color: white;
+    border-bottom: 1px solid #18191A;
+}
+
+.fuentes {
+    font-size: 16px;
+    font-weight: 300;
+    color: #18191A;
+}
+
+.fuentes li a:hover {
+    font-weight: bold;
+}
+
+/*Hero*/
+
+h1 {
+    color: #262523;
+    font-family: Outfit;
+    font-size: 95px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 94.5px;
+    letter-spacing: 0.15px;
+}
+
+p { color: #000;
+    font-family: Outfit;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 25px;
+    letter-spacing: 0.15px;
+}
+
+footer{
+    background-color: #18191A;
+    color: white;
+}
+
+.form-field{
+    background-color: #EFF2F6;
+}
